@@ -1,0 +1,7 @@
+Here are the prompts I used to develop video player.
+I used Cursor to develop this software.
+Hello, kindly build a video player using java.
+Kindly set the color for video player area to black. 
+Add a file menu on the top of video player and provide general file menu options including open video option. Remove the open video and stop button.
+Add a scroll bar to the bottom of the video player. 
+Plot the play button in the center of the bottom pane. Turn this button into a toggle pause play button and remove the pause button.
